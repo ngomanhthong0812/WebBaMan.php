@@ -70,22 +70,22 @@
         </div>
 
         <div class="icon_prioritize">
-            <div class="icon_prioritize_inner">
+            <div class="icon_prioritize_inner flex-col items-center">
                 <img src="../public/img/icon_prioritize/1.png" alt="">
                 <h5>Amazing Value Every Day</h5>
                 <span>Items prices that fit your budget</span>
             </div>
-            <div class="icon_prioritize_inner">
+            <div class="icon_prioritize_inner flex-col items-center">
                 <img src="../public/img/icon_prioritize/2.png" alt="">
                 <h5>Successful Customer Service</h5>
                 <span>We work with a focus on 100% customer satisfaction.</span>
             </div>
-            <div class="icon_prioritize_inner">
+            <div class="icon_prioritize_inner flex-col items-center">
                 <img src="../public/img/icon_prioritize/3.png" alt="">
                 <h5>All Payment Methods</h5>
                 <span>Don't bother with payment details.</span>
             </div>
-            <div class="icon_prioritize_inner">
+            <div class="icon_prioritize_inner flex-col items-center">
                 <img src="../public/img/icon_prioritize/4.png" alt="">
                 <h5>Completely free shipping</h5>
                 <span>We'll handle the shipping.</span>
